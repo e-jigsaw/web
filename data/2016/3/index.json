@@ -6,5 +6,6 @@
   {"title":"justify-content - CSS | MDN","url":"https://developer.mozilla.org/ja/docs/Web/CSS/justify-content","description":"flex box で要素の位置を設定する","label":"flex","createdAt":1458501048489},
   {"title":"Flowtype+Atom+Nuclideで安全にEventを扱う - Qiita","url":"http://qiita.com/kinzal/items/b652aaa18a1c012ad102","description":"flow で eventemitter の型を作って保護する","label":"flowtype,atom,nuclide,electron","createdAt":1458501139842},
   {"title":"春からはじめるモダンJavaScript / ES2015 - Qiita","url":"http://qiita.com/mizchi/items/3bbb3f466a3b5011b509","description":"ES2015 の現状","label":"js,es2015","createdAt":1458501227123},
-  {"title":"HubotスクリプトをCommon Lispで書く - 八発白中","url":"http://blog.8arrow.org/entry/2015/12/25/080000","description":"","label":"lisp,roswell,hubot","createdAt":1458516759040}
+  {"title":"HubotスクリプトをCommon Lispで書く - 八発白中","url":"http://blog.8arrow.org/entry/2015/12/25/080000","description":"","label":"lisp,roswell,hubot","createdAt":1458516759040},
+  {"title":"Herokuでbotを運用する時代は終わった。これからはIBM Bluemixを使って無料で運用する - Qiita","url":"http://qiita.com/akameco/items/39a55635ceb0ba185b7f","description":"bluemix って無料枠あるんだ...","label":"bluemix,hubot","createdAt":1458517052457}
 ]
