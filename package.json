@@ -1,0 +1,38 @@
+{
+  "private": true,
+  "name": "web",
+  "description": "Web technology infomation",
+  "main": "index.js",
+  "config": {
+    "DEST": "build"
+  },
+  "scripts": {
+    "before": "mkdir -p $npm_package_config_DEST",
+    "build": "npm-run-all before -p build:*",
+    "build:jade": "jade src --out $npm_package_config_DEST",
+    "build:lson": "lson -o $npm_package_config_DEST src/*.lson",
+    "build:ls": "lsc -co $npm_package_config_DEST src/event.ls",
+    "build:bundle": "browserify -t [ @jigsaw/anyify --ls [ livescript?compile ] ] src/index.ls > $npm_package_config_DEST/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/e-jigsaw/web.git"
+  },
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-jigsaw/web/issues"
+  },
+  "homepage": "https://github.com/e-jigsaw/web#readme",
+  "devDependencies": {
+    "@jigsaw/anyify": "^1.0.1",
+    "browserify": "^13.0.0",
+    "jade": "^1.11.0",
+    "livescript": "^1.4.0",
+    "lson-cli": "0.0.6",
+    "npm-run-all": "^1.6.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-micro-container": "^0.1.0"
+  }
+}
