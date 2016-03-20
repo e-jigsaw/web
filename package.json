@@ -12,7 +12,8 @@
     "build:jade": "jade src --out $npm_package_config_DEST",
     "build:lson": "lson -o $npm_package_config_DEST src/*.lson",
     "build:ls": "lsc -co $npm_package_config_DEST src/event.ls",
-    "build:bundle": "browserify -t [ @jigsaw/anyify --ls [ livescript?compile ] ] src/index.ls > $npm_package_config_DEST/index.js"
+    "build:bundle": "browserify -t [ @jigsaw/anyify --ls [ livescript?compile ] ] src/index.ls > $npm_package_config_DEST/index.js",
+    "check": "lsc scripts/check-json.ls"
   },
   "repository": {
     "type": "git",
