@@ -8,5 +8,6 @@
   {"title":"春からはじめるモダンJavaScript / ES2015 - Qiita","url":"http://qiita.com/mizchi/items/3bbb3f466a3b5011b509","description":"ES2015 の現状","label":"js,es2015","createdAt":1458501227123},
   {"title":"HubotスクリプトをCommon Lispで書く - 八発白中","url":"http://blog.8arrow.org/entry/2015/12/25/080000","description":"","label":"lisp,roswell,hubot","createdAt":1458516759040},
   {"title":"Herokuでbotを運用する時代は終わった。これからはIBM Bluemixを使って無料で運用する - Qiita","url":"http://qiita.com/akameco/items/39a55635ceb0ba185b7f","description":"bluemix って無料枠あるんだ...","label":"bluemix,hubot","createdAt":1458517052457},
-  {"title":"型なき世界のためのflowtype入門 - Qiita","url":"http://qiita.com/mizchi/items/95ee0101ac22e4b7b662","description":"","label":"flowtype","createdAt":1458666958459}
+  {"title":"型なき世界のためのflowtype入門 - Qiita","url":"http://qiita.com/mizchi/items/95ee0101ac22e4b7b662","description":"","label":"flowtype","createdAt":1458666958459},
+  {"title":"electronjs/electron-rebuild: Package to rebuild native io.js modules against the currently installed Electron version","url":"https://github.com/electronjs/electron-rebuild","description":"electron 向けにネイティブモジュールをリビルドするツール","label":"electron","createdAt":1458672216187}
 ]
