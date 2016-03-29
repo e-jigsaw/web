@@ -13,5 +13,6 @@
   {"title":"electron/using-native-node-modules.md at master · atom/electron","url":"https://github.com/atom/electron/blob/master/docs-translations/jp/tutorial/using-native-node-modules.md","description":"","label":"electron","createdAt":1458672253860},
   {"title":"Form.io - Complex Connections Made Simple","url":"https://form.io/","description":"Form as a Service みたいなやつっぽい","label":"service,form,react,docker","createdAt":1459014958933},
   {"title":"【Electron】画像を保存するだけで満足してしまうオタクのために最高の画像ビューアをつくった - Qiita","url":"http://qiita.com/akameco/items/58a4c91061790f29d5f6","description":"","label":"electron","createdAt":1459170377441},
-  {"title":"css-modules/postcss-modules-values: Pass arbitrary constants between your module files","url":"https://github.com/css-modules/postcss-modules-values","description":"CSS Modules で変数を取り扱う","label":"CSSModules","createdAt":1459245311775}
+  {"title":"css-modules/postcss-modules-values: Pass arbitrary constants between your module files","url":"https://github.com/css-modules/postcss-modules-values","description":"CSS Modules で変数を取り扱う","label":"CSSModules","createdAt":1459245311775},
+  {"title":"css-modules/values-variables.md at master · css-modules/css-modules","url":"https://github.com/css-modules/css-modules/blob/master/docs/values-variables.md","description":"CSS Modules での変数の取り扱い","label":"CSSModules","createdAt":1459245704913}
 ]
