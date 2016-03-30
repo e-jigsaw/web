@@ -18,5 +18,6 @@
   {"title":"The Sad State of the Backbone Ecosystem","url":"http://benmccormick.org/2016/03/07/the-sad-state-of-the-backbone-ecosystem/","description":"","label":"backbonejs,歴史","createdAt":1459265605310},
   {"title":"The npm Blog — changes to npm’s unpublish policy","url":"http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy","description":"","label":"","createdAt":1459273595536},
   {"title":"翻訳: WebAPI 設計のベストプラクティス - Qiita","url":"http://qiita.com/mserizawa/items/b833e407d89abd21ee72","description":"","label":"API","createdAt":1459319688425},
-  {"title":"「WebAPI 設計のベストプラクティス」に対する所感 - Qiita","url":"http://qiita.com/ryo88c/items/0a3c7861015861026e00","description":"","label":"API","createdAt":1459320032102}
+  {"title":"「WebAPI 設計のベストプラクティス」に対する所感 - Qiita","url":"http://qiita.com/ryo88c/items/0a3c7861015861026e00","description":"","label":"API","createdAt":1459320032102},
+  {"title":"データサイエンティストを目指す人のpython環境構築 2016 - Qiita","url":"http://qiita.com/y__sama/items/5b62d31cb7e6ed50f02c","description":"","label":"python,data","createdAt":1459320367788}
 ]
