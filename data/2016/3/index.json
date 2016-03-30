@@ -17,5 +17,6 @@
   {"title":"css-modules/values-variables.md at master · css-modules/css-modules","url":"https://github.com/css-modules/css-modules/blob/master/docs/values-variables.md","description":"CSS Modules での変数の取り扱い","label":"CSSModules","createdAt":1459245704913},
   {"title":"The Sad State of the Backbone Ecosystem","url":"http://benmccormick.org/2016/03/07/the-sad-state-of-the-backbone-ecosystem/","description":"","label":"backbonejs,歴史","createdAt":1459265605310},
   {"title":"The npm Blog — changes to npm’s unpublish policy","url":"http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy","description":"","label":"","createdAt":1459273595536},
-  {"title":"翻訳: WebAPI 設計のベストプラクティス - Qiita","url":"http://qiita.com/mserizawa/items/b833e407d89abd21ee72","description":"","label":"API","createdAt":1459319688425}
+  {"title":"翻訳: WebAPI 設計のベストプラクティス - Qiita","url":"http://qiita.com/mserizawa/items/b833e407d89abd21ee72","description":"","label":"API","createdAt":1459319688425},
+  {"title":"「WebAPI 設計のベストプラクティス」に対する所感 - Qiita","url":"http://qiita.com/ryo88c/items/0a3c7861015861026e00","description":"","label":"API","createdAt":1459320032102}
 ]
