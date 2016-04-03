@@ -2,5 +2,6 @@
   {"title":"Idobataで使えるスタイル指定 - Qiita","url":"http://qiita.com/harukasan/items/2ddb47f7ce6086d3a571","description":"","label":"idobata","createdAt":1459448986609},
   {"title":"Callum's Sandbox","url":"http://callumprentice.github.io/","description":"","label":"webgl,samples","createdAt":1459488780772},
   {"title":"Embedding VR Views  |  Cardboard  |  Google Developers","url":"https://developers.google.com/cardboard/vrview","description":"","label":"vr,cardboard","createdAt":1459490147828},
-  {"title":"Fetch polyfill not working with Safari Technology Preview · Issue #303 · github/fetch","url":"https://github.com/github/fetch/issues/303","description":"","label":"fetch,safari,polyfill,break","createdAt":1459694130302}
+  {"title":"Fetch polyfill not working with Safari Technology Preview · Issue #303 · github/fetch","url":"https://github.com/github/fetch/issues/303","description":"","label":"fetch,safari,polyfill,break","createdAt":1459694130302},
+  {"title":"Webpack 2 Tree Shaking Configuration — Modus Create: Front End Development — Medium","url":"https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.yjzcf1yia","description":"","label":"webpack","createdAt":1459697633715}
 ]
