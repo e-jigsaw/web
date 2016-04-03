@@ -1,5 +1,6 @@
 [
   {"title":"Idobataで使えるスタイル指定 - Qiita","url":"http://qiita.com/harukasan/items/2ddb47f7ce6086d3a571","description":"","label":"idobata","createdAt":1459448986609},
   {"title":"Callum's Sandbox","url":"http://callumprentice.github.io/","description":"","label":"webgl,samples","createdAt":1459488780772},
-  {"title":"Embedding VR Views  |  Cardboard  |  Google Developers","url":"https://developers.google.com/cardboard/vrview","description":"","label":"vr,cardboard","createdAt":1459490147828}
+  {"title":"Embedding VR Views  |  Cardboard  |  Google Developers","url":"https://developers.google.com/cardboard/vrview","description":"","label":"vr,cardboard","createdAt":1459490147828},
+  {"title":"Fetch polyfill not working with Safari Technology Preview · Issue #303 · github/fetch","url":"https://github.com/github/fetch/issues/303","description":"","label":"fetch,safari,polyfill,break","createdAt":1459694130302}
 ]
