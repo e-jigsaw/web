@@ -3,5 +3,6 @@
   {"title":"Callum's Sandbox","url":"http://callumprentice.github.io/","description":"","label":"webgl,samples","createdAt":1459488780772},
   {"title":"Embedding VR Views  |  Cardboard  |  Google Developers","url":"https://developers.google.com/cardboard/vrview","description":"","label":"vr,cardboard","createdAt":1459490147828},
   {"title":"Fetch polyfill not working with Safari Technology Preview · Issue #303 · github/fetch","url":"https://github.com/github/fetch/issues/303","description":"","label":"fetch,safari,polyfill,break","createdAt":1459694130302},
-  {"title":"Webpack 2 Tree Shaking Configuration — Modus Create: Front End Development — Medium","url":"https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.yjzcf1yia","description":"","label":"webpack","createdAt":1459697633715}
+  {"title":"Webpack 2 Tree Shaking Configuration — Modus Create: Front End Development — Medium","url":"https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.yjzcf1yia","description":"","label":"webpack","createdAt":1459697633715},
+  {"title":"React vs Angular2: The fight rages on – Evojam Technology Blog","url":"https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/","description":"","label":"react,angular2","createdAt":1459791533415}
 ]
