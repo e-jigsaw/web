@@ -5,5 +5,6 @@
   {"title":"Fetch polyfill not working with Safari Technology Preview · Issue #303 · github/fetch","url":"https://github.com/github/fetch/issues/303","description":"","label":"fetch,safari,polyfill,break","createdAt":1459694130302},
   {"title":"Webpack 2 Tree Shaking Configuration — Modus Create: Front End Development — Medium","url":"https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.yjzcf1yia","description":"","label":"webpack","createdAt":1459697633715},
   {"title":"React vs Angular2: The fight rages on – Evojam Technology Blog","url":"https://tech.evojam.com/2016/03/31/react-vs-angular2-the-fight-rages-on/","description":"","label":"react,angular2","createdAt":1459791533415},
-  {"title":"Shibuya.XSS #7 が開催されました - Cybozu Inside Out | サイボウズエンジニアのブログ","url":"http://blog.cybozu.io/entry/2016/04/05/111500","description":"","label":"xss,security","createdAt":1459834121225}
+  {"title":"Shibuya.XSS #7 が開催されました - Cybozu Inside Out | サイボウズエンジニアのブログ","url":"http://blog.cybozu.io/entry/2016/04/05/111500","description":"","label":"xss,security","createdAt":1459834121225},
+  {"title":"stackとNixを使って安定したビルド環境を作る - Qiita","url":"http://qiita.com/ilyaletre/items/5cf1e7807e0cdc3ef1cd","description":"","label":"haskell,nix","createdAt":1459872881530}
 ]
