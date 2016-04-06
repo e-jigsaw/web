@@ -9,5 +9,6 @@
   {"title":"stackとNixを使って安定したビルド環境を作る - Qiita","url":"http://qiita.com/ilyaletre/items/5cf1e7807e0cdc3ef1cd","description":"","label":"haskell,nix","createdAt":1459872881530},
   {"title":"Gitで署名付きCommitsやtagを作る | INSANEWORKS,LLC","url":"https://www.insaneworks.co.jp/kota/git%E3%81%A7%E7%BD%B2%E5%90%8D%E4%BB%98%E3%81%8Dcommits%E3%82%84tag%E3%82%92%E4%BD%9C%E3%82%8B/","description":"","label":"git,gpg","createdAt":1459936525649},
   {"title":"Generating a new GPG key - User Documentation","url":"https://help.github.com/articles/generating-a-new-gpg-key/","description":"","label":"github,gpg","createdAt":1459936565889},
-  {"title":"Git - 作業内容への署名","url":"https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E3%83%84%E3%83%BC%E3%83%AB-%E4%BD%9C%E6%A5%AD%E5%86%85%E5%AE%B9%E3%81%B8%E3%81%AE%E7%BD%B2%E5%90%8D","description":"","label":"git,gpg","createdAt":1459936624416}
+  {"title":"Git - 作業内容への署名","url":"https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E3%83%84%E3%83%BC%E3%83%AB-%E4%BD%9C%E6%A5%AD%E5%86%85%E5%AE%B9%E3%81%B8%E3%81%AE%E7%BD%B2%E5%90%8D","description":"","label":"git,gpg","createdAt":1459936624416},
+  {"title":"GPG signature verification","url":"https://github.com/blog/2144-gpg-signature-verification","description":"","label":"github,gpg","createdAt":1459936647136}
 ]
