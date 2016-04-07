@@ -16,5 +16,6 @@
   {"title":"Client Side of なんちゃらfresh.tv","url":"http://s.aho.mu/160405-node_school/","description":"","label":"react,flux,component,structure,ssr,spa","createdAt":1459963006126},
   {"title":"Investigate switching away from GitHub · Issue #5205 · eslint/eslint","url":"https://github.com/eslint/eslint/issues/5205","description":"","label":"eslint,github","createdAt":1459963195348},
   {"title":"ESLint Past and Future - Google スライド","url":"https://docs.google.com/presentation/d/1OeKTQieBBTp4dQz8irIM-DxXS-0gUixC1hlOZbfIkqs/edit#slide=id.p","description":"","label":"eslint","createdAt":1459963317043},
-  {"title":"Isomorphic Architecture を実装してるときの細かいアレコレ ::ハブろぐ","url":"https://havelog.ayumusato.com/develop/javascript/e682-universal_architecture_tips.html","description":"","label":"universal,ssr,spa,react,sideeffect","createdAt":1459963945810}
+  {"title":"Isomorphic Architecture を実装してるときの細かいアレコレ ::ハブろぐ","url":"https://havelog.ayumusato.com/develop/javascript/e682-universal_architecture_tips.html","description":"","label":"universal,ssr,spa,react,sideeffect","createdAt":1459963945810},
+  {"title":"iOS ヒューマンインターフェースの原則 - Qiita","url":"http://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38","description":"","label":"ios,ui,ux","createdAt":1460010536890}
 ]
