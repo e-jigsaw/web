@@ -19,5 +19,6 @@
   {"title":"Isomorphic Architecture を実装してるときの細かいアレコレ ::ハブろぐ","url":"https://havelog.ayumusato.com/develop/javascript/e682-universal_architecture_tips.html","description":"","label":"universal,ssr,spa,react,sideeffect","createdAt":1459963945810},
   {"title":"iOS ヒューマンインターフェースの原則 - Qiita","url":"http://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38","description":"","label":"ios,ui,ux","createdAt":1460010536890},
   {"title":"Atom 1.6 and 1.7 beta - Atom Blog","url":"http://blog.atom.io/2016/03/17/atom-1-6-and-1-7-beta.html","description":"","label":"atom","createdAt":1460022249908},
-  {"title":"mozilla/tofino: Project Tofino is a browser interaction experiment.","url":"https://github.com/mozilla/tofino","description":"","label":"electron,react,browser","createdAt":1460094719719}
+  {"title":"mozilla/tofino: Project Tofino is a browser interaction experiment.","url":"https://github.com/mozilla/tofino","description":"","label":"electron,react,browser","createdAt":1460094719719},
+  {"title":"Introduction to flux-util // Speaker Deck","url":"https://speakerdeck.com/joere/introduction-to-flux-util","description":"","label":"flux,flux-util,redux,react","createdAt":1460365314901}
 ]
