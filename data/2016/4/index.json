@@ -21,5 +21,6 @@
   {"title":"Atom 1.6 and 1.7 beta - Atom Blog","url":"http://blog.atom.io/2016/03/17/atom-1-6-and-1-7-beta.html","description":"","label":"atom","createdAt":1460022249908},
   {"title":"mozilla/tofino: Project Tofino is a browser interaction experiment.","url":"https://github.com/mozilla/tofino","description":"","label":"electron,react,browser","createdAt":1460094719719},
   {"title":"Introduction to flux-util // Speaker Deck","url":"https://speakerdeck.com/joere/introduction-to-flux-util","description":"","label":"flux,flux-util,redux,react","createdAt":1460365314901},
-  {"title":"React.run - Beta","url":"http://www.react.run/EkknqiE1Z/1","description":"","label":"react,webservice","createdAt":1460386720355}
+  {"title":"React.run - Beta","url":"http://www.react.run/EkknqiE1Z/1","description":"","label":"react,webservice","createdAt":1460386720355},
+  {"title":"Flux Utilsのドキュメント日本語訳 | mae's blog","url":"http://mae.chab.in/archives/2839","description":"","label":"react,flux,flux-utils","createdAt":1460438515076}
 ]
