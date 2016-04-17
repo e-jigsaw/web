@@ -25,5 +25,6 @@
   {"title":"Flux Utilsのドキュメント日本語訳 | mae's blog","url":"http://mae.chab.in/archives/2839","description":"","label":"react,flux,flux-utils","createdAt":1460438515076},
   {"title":"Flux – Dispatcherのドキュメント【日本語訳】と実装のポイント | mae's blog","url":"http://mae.chab.in/archives/2738","description":"","label":"react,flux,flux-utils","createdAt":1460438618839},
   {"title":"fluentdの簡単な使い方、設定方法一覧","url":"http://hivecolor.com/id/37","description":"","label":"fluentd","createdAt":1460532935569},
-  {"title":"今どきの若手育成にひそむ3つの思いこみ","url":"http://www.slideshare.net/hysmrk/3-techlion-vol25","description":"","label":"","createdAt":1460795307315}
+  {"title":"今どきの若手育成にひそむ3つの思いこみ","url":"http://www.slideshare.net/hysmrk/3-techlion-vol25","description":"","label":"","createdAt":1460795307315},
+  {"title":"power-assert + babel as a development tool | Web Scratch","url":"http://efcl.info/2016/04/14/espower-babel-is-deprecated/","description":"","label":"test,assert,babel,power-assert","createdAt":1460888156184}
 ]
