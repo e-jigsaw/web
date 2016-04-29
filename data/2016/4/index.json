@@ -39,5 +39,6 @@
   {"title":"Scalaで学ぶヘキサゴナルアーキテクチャ実践入門 // Speaker Deck","url":"https://speakerdeck.com/kimutyam/scaladexue-buhekisagonaruakitekutiyashi-jian-ru-men","description":"","label":"architecture","createdAt":1461661185664},
   {"title":"Dockerコンテナー内のbashからアプリケーション停止処理を実施するTIPS - めもめも","url":"http://enakai00.hatenablog.com/entry/20140824/1408855090","description":"","label":"docker","createdAt":1461766936841},
   {"title":"Why does my Perl script exit with 137? - Stack Overflow","url":"http://stackoverflow.com/questions/1041182/why-does-my-perl-script-exit-with-137","description":"","label":"sh","createdAt":1461766979607},
-  {"title":"ラフ画へ自動的にペン入れして線画にする恐るべきニューラルネットワーク技術を早稲田大学の研究室が開発 - GIGAZINE","url":"http://gigazine.net/news/20160428-sketch-automatic-line-drawing/","description":"","label":"nn","createdAt":1461822962970}
+  {"title":"ラフ画へ自動的にペン入れして線画にする恐るべきニューラルネットワーク技術を早稲田大学の研究室が開発 - GIGAZINE","url":"http://gigazine.net/news/20160428-sketch-automatic-line-drawing/","description":"","label":"nn","createdAt":1461822962970},
+  {"title":"A revolutionary new way to access all your files | | Dropbox Business Blog","url":"https://blogs.dropbox.com/business/2016/04/announcing-project-infinite/","description":"","label":"dropbox","createdAt":1461962972001}
 ]
