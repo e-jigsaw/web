@@ -2,5 +2,6 @@
   {"title":"10,000DAUまで 成長させたグロースハック事例","url":"http://www.slideshare.net/104kn/growthhack-open-37714552","description":"","label":"growthhack,service","createdAt":1462165789696},
   {"title":"How to Make Your React Apps 15x Faster – ReactJS News","url":"https://reactjsnews.com/how-to-make-your-react-apps-10x-faster","description":"","label":"react,js,perf","createdAt":1462175364314},
   {"title":"What the Flux? (On Flux, DDD, and CQRS) — Jack Hsu","url":"http://jaysoo.ca/2015/02/06/what-the-flux/","description":"","label":"flux,ddd,cqrs,js","createdAt":1462274207706},
-  {"title":"React Contexts and Dependency Injection — Jack Hsu","url":"http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/","description":"","label":"di,react,js","createdAt":1462274662771}
+  {"title":"React Contexts and Dependency Injection — Jack Hsu","url":"http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/","description":"","label":"di,react,js","createdAt":1462274662771},
+  {"title":"Rules For Structuring (Redux) Applications — Jack Hsu","url":"http://jaysoo.ca/2016/02/28/organizing-redux-application/","description":"","label":"react,redux,structure,js","createdAt":1462274956414}
 ]
