@@ -4,5 +4,6 @@
   {"title":"What the Flux? (On Flux, DDD, and CQRS) — Jack Hsu","url":"http://jaysoo.ca/2015/02/06/what-the-flux/","description":"","label":"flux,ddd,cqrs,js","createdAt":1462274207706},
   {"title":"React Contexts and Dependency Injection — Jack Hsu","url":"http://jaysoo.ca/2015/06/09/react-contexts-and-dependency-injection/","description":"","label":"di,react,js","createdAt":1462274662771},
   {"title":"Rules For Structuring (Redux) Applications — Jack Hsu","url":"http://jaysoo.ca/2016/02/28/organizing-redux-application/","description":"","label":"react,redux,structure,js","createdAt":1462274956414},
-  {"title":"Almin.js | JavaScriptアーキテクチャ","url":"http://azu.github.io/slide/2016/child_process_sushi/almin-javascript-architecture.html","description":"","label":"flux,react,cqrs,ddd","createdAt":1462293285288}
+  {"title":"Almin.js | JavaScriptアーキテクチャ","url":"http://azu.github.io/slide/2016/child_process_sushi/almin-javascript-architecture.html","description":"","label":"flux,react,cqrs,ddd","createdAt":1462293285288},
+  {"title":"[Flux Utils] Changes fired between getInitialState and componentDidMount do not cause updates · Issue #316 · facebook/flux","url":"https://github.com/facebook/flux/issues/316","description":"","label":"flux,issue,bug","createdAt":1462508796329}
 ]
