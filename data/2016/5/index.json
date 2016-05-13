@@ -7,5 +7,6 @@
   {"title":"Almin.js | JavaScriptアーキテクチャ","url":"http://azu.github.io/slide/2016/child_process_sushi/almin-javascript-architecture.html","description":"","label":"flux,react,cqrs,ddd","createdAt":1462293285288},
   {"title":"[Flux Utils] Changes fired between getInitialState and componentDidMount do not cause updates · Issue #316 · facebook/flux","url":"https://github.com/facebook/flux/issues/316","description":"","label":"flux,issue,bug","createdAt":1462508796329},
   {"title":"入門Transducers","url":"http://www.slideshare.net/sohta/transducer-49916070","description":"","label":"clojure,transducer","createdAt":1462599597317},
-  {"title":"The power of higher-order reducers by omnidan","url":"http://slides.com/omnidan/hor#/","description":"","label":"redux","createdAt":1462599726629}
+  {"title":"The power of higher-order reducers by omnidan","url":"http://slides.com/omnidan/hor#/","description":"","label":"redux","createdAt":1462599726629},
+  {"title":"ブレークポイントを使ったJavaScriptデバッグを整理してみた【再入門】 - Qiita","url":"http://qiita.com/nekoneko-wanwan/items/02aed17773833c3ad3b2","description":"","label":"chrome,debug","createdAt":1463118522307}
 ]
