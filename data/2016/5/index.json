@@ -10,5 +10,6 @@
   {"title":"The power of higher-order reducers by omnidan","url":"http://slides.com/omnidan/hor#/","description":"","label":"redux","createdAt":1462599726629},
   {"title":"ブレークポイントを使ったJavaScriptデバッグを整理してみた【再入門】 - Qiita","url":"http://qiita.com/nekoneko-wanwan/items/02aed17773833c3ad3b2","description":"","label":"chrome,debug","createdAt":1463118522307},
   {"title":"UIデザイナーに必要なのは、決定力のあるデザインを作る能力 | tsublog","url":"http://blog.tsubotax.com/archives/795","description":"","label":"ui,ux,design","createdAt":1463368979304},
-  {"title":"UCDとDDD - ユースケースからユーザー中心について考える // Speaker Deck","url":"https://speakerdeck.com/tyshgc/ucdtoddd-yusukesukarayuzazhong-xin-nituitekao-eru","description":"","label":"ddd,design","createdAt":1463376788681}
+  {"title":"UCDとDDD - ユースケースからユーザー中心について考える // Speaker Deck","url":"https://speakerdeck.com/tyshgc/ucdtoddd-yusukesukarayuzazhong-xin-nituitekao-eru","description":"","label":"ddd,design","createdAt":1463376788681},
+  {"title":"modular and versioned GLSL","url":"https://mattdesl.svbtle.com/glslify","description":"","label":"glsl,webgl","createdAt":1463411481114}
 ]
