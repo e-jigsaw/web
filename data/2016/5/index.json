@@ -13,5 +13,6 @@
   {"title":"UCDとDDD - ユースケースからユーザー中心について考える // Speaker Deck","url":"https://speakerdeck.com/tyshgc/ucdtoddd-yusukesukarayuzazhong-xin-nituitekao-eru","description":"","label":"ddd,design","createdAt":1463376788681},
   {"title":"modular and versioned GLSL","url":"https://mattdesl.svbtle.com/glslify","description":"","label":"glsl,webgl","createdAt":1463411481114},
   {"title":"Generative Art with Node.js and Canvas","url":"https://mattdesl.svbtle.com/generative-art-with-nodejs-and-canvas","description":"","label":"canvas,art","createdAt":1463411520785},
-  {"title":"なにが変わるの WebGL 2.0","url":"https://wgld.org/o/tools/slide/doc/005/","description":"","label":"webgl","createdAt":1463449318285}
+  {"title":"なにが変わるの WebGL 2.0","url":"https://wgld.org/o/tools/slide/doc/005/","description":"","label":"webgl","createdAt":1463449318285},
+  {"title":"頼むからプログラミングを学ばないでくれ | TechCrunch Japan","url":"http://jp.techcrunch.com/2016/05/17/20160510please-dont-learn-to-code/","description":"","label":"","createdAt":1463538146685}
 ]
