@@ -1,5 +1,6 @@
 [
   {"title":"Improving Your CSS with Parker – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts","url":"http://csswizardry.com/2016/06/improving-your-css-with-parker/","description":"","label":"css,parker,analyze","createdAt":1464923968387},
   {"title":"Docker だらけの FRESH な動画配信プラットフォーム // Speaker Deck","url":"https://speakerdeck.com/stormcat24/docker-darakefalse-fresh-nadong-hua-pei-xin-puratutohuomu","description":"","label":"docker,aws,ecs","createdAt":1464942941696},
-  {"title":"GolangでFlame Graphを描く | SOTA","url":"http://deeeet.com/writing/2016/05/29/go-flame-graph/","description":"","label":"golang,perf","createdAt":1464944145109}
+  {"title":"GolangでFlame Graphを描く | SOTA","url":"http://deeeet.com/writing/2016/05/29/go-flame-graph/","description":"","label":"golang,perf","createdAt":1464944145109},
+  {"title":"ビジュアルでもできるデザイン批評 : could","url":"http://www.yasuhisa.com/could/article/visual-design-ciritique/","description":"","label":"design","createdAt":1465003658390}
 ]
