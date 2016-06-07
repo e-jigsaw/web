@@ -4,5 +4,6 @@
   {"title":"GolangでFlame Graphを描く | SOTA","url":"http://deeeet.com/writing/2016/05/29/go-flame-graph/","description":"","label":"golang,perf","createdAt":1464944145109},
   {"title":"ビジュアルでもできるデザイン批評 : could","url":"http://www.yasuhisa.com/could/article/visual-design-ciritique/","description":"","label":"design","createdAt":1465003658390},
   {"title":"ドメイン駆動設計を取り入れてみて感じたこと。 | FiNC Developers Blog","url":"http://developer-blog.finc.co.jp/post/145262004507/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E3%82%92%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%A6%E6%84%9F%E3%81%98%E3%81%9F%E3%81%93%E3%81%A8","description":"","label":"ddd,rails","createdAt":1465188155784},
-  {"title":"webpackのDLLバンドルを使ってビルドを速くする - Qiita","url":"http://qiita.com/pirosikick/items/c77db84dbed4c447a6fe","description":"","label":"webpack","createdAt":1465194008641}
+  {"title":"webpackのDLLバンドルを使ってビルドを速くする - Qiita","url":"http://qiita.com/pirosikick/items/c77db84dbed4c447a6fe","description":"","label":"webpack","createdAt":1465194008641},
+  {"title":"Flow vs TypeScript","url":"http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/27","description":"","label":"flowtype,typescript","createdAt":1465292874562}
 ]
