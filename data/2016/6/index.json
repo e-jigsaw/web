@@ -7,5 +7,6 @@
   {"title":"webpackのDLLバンドルを使ってビルドを速くする - Qiita","url":"http://qiita.com/pirosikick/items/c77db84dbed4c447a6fe","description":"","label":"webpack","createdAt":1465194008641},
   {"title":"Flow vs TypeScript","url":"http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/27","description":"","label":"flowtype,typescript","createdAt":1465292874562},
   {"title":"flowtypeの実現する実行時例外のない世界 - Please Drive Faster","url":"http://joe-re.hatenablog.com/entry/2016/06/07/000905","description":"","label":"flowtype,typescript","createdAt":1465297303662},
-  {"title":"飯塚らによるディープラーニングでグレースケール画像に自動的に着色する手法のデモ実装をWebでサクッと試せるサービスを作った","url":"https://blog.misosi.ru/2016/06/04/siggraph2016_colorization_web_impl/","description":"","label":"dl,webservice","createdAt":1465411667204}
+  {"title":"飯塚らによるディープラーニングでグレースケール画像に自動的に着色する手法のデモ実装をWebでサクッと試せるサービスを作った","url":"https://blog.misosi.ru/2016/06/04/siggraph2016_colorization_web_impl/","description":"","label":"dl,webservice","createdAt":1465411667204},
+  {"title":"The New Norm of The Web","url":"http://www.slideshare.net/dynamis/the-new-norm-of-the-web","description":"Web を支える技術の俯瞰的なまとめ","label":"web","createdAt":1465455064639}
 ]
