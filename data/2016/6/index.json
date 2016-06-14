@@ -10,5 +10,6 @@
   {"title":"飯塚らによるディープラーニングでグレースケール画像に自動的に着色する手法のデモ実装をWebでサクッと試せるサービスを作った","url":"https://blog.misosi.ru/2016/06/04/siggraph2016_colorization_web_impl/","description":"","label":"dl,webservice","createdAt":1465411667204},
   {"title":"The New Norm of The Web","url":"http://www.slideshare.net/dynamis/the-new-norm-of-the-web","description":"Web を支える技術の俯瞰的なまとめ","label":"web","createdAt":1465455064639},
   {"title":"npms","url":"https://npms.io/","description":"","label":"npm,service","createdAt":1465835653820},
-  {"title":"Flowtypeによるコンポーネント指向における型の入手/flowtype-with-flow // Speaker Deck","url":"https://speakerdeck.com/joere/flowtype-with-flow","description":"","label":"flowtype,redux,component","createdAt":1465929736077}
+  {"title":"Flowtypeによるコンポーネント指向における型の入手/flowtype-with-flow // Speaker Deck","url":"https://speakerdeck.com/joere/flowtype-with-flow","description":"","label":"flowtype,redux,component","createdAt":1465929736077},
+  {"title":"flow-typedで外部ライブラリの型定義を使う - Qiita","url":"http://qiita.com/kuy/items/90fe63a9cc6710815c09","description":"","label":"flowtype","createdAt":1465929928743}
 ]
