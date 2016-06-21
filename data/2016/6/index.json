@@ -12,5 +12,6 @@
   {"title":"npms","url":"https://npms.io/","description":"","label":"npm,service","createdAt":1465835653820},
   {"title":"Flowtypeによるコンポーネント指向における型の入手/flowtype-with-flow // Speaker Deck","url":"https://speakerdeck.com/joere/flowtype-with-flow","description":"","label":"flowtype,redux,component","createdAt":1465929736077},
   {"title":"flow-typedで外部ライブラリの型定義を使う - Qiita","url":"http://qiita.com/kuy/items/90fe63a9cc6710815c09","description":"","label":"flowtype","createdAt":1465929928743},
-  {"title":"The Netflix Tech Blog: Making Netflix.com Faster","url":"http://techblog.netflix.com/2015/08/making-netflixcom-faster.html","description":"","label":"netflix,ssr,universal","createdAt":1466343094743}
+  {"title":"The Netflix Tech Blog: Making Netflix.com Faster","url":"http://techblog.netflix.com/2015/08/making-netflixcom-faster.html","description":"","label":"netflix,ssr,universal","createdAt":1466343094743},
+  {"title":"iphone - Remove 'previous', 'next' and 'done' button at html form - Stack Overflow","url":"http://stackoverflow.com/questions/9920952/remove-previous-next-and-done-button-at-html-form","description":"","label":"ios,mobilesafari","createdAt":1466523865241}
 ]
