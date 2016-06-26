@@ -15,5 +15,6 @@
   {"title":"The Netflix Tech Blog: Making Netflix.com Faster","url":"http://techblog.netflix.com/2015/08/making-netflixcom-faster.html","description":"","label":"netflix,ssr,universal","createdAt":1466343094743},
   {"title":"iphone - Remove 'previous', 'next' and 'done' button at html form - Stack Overflow","url":"http://stackoverflow.com/questions/9920952/remove-previous-next-and-done-button-at-html-form","description":"","label":"ios,mobilesafari","createdAt":1466523865241},
   {"title":"Tutorial: It's all about time: Building a performant Stopwatch with MobX and React - fast","url":"https://onsen.io/blog/mobx-tutorial-react-stopwatch/","description":"","label":"react,mobx","createdAt":1466538921665},
-  {"title":"3 Reasons why I stopped using React.setState — Medium","url":"https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.nhav4pqt3","description":"","label":"react,mobx","createdAt":1466539030288}
+  {"title":"3 Reasons why I stopped using React.setState — Medium","url":"https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.nhav4pqt3","description":"","label":"react,mobx","createdAt":1466539030288},
+  {"title":"持続可能な開発を目指す ~ ドメイン・ユースケース駆動（クリーンアーキテクチャ） + 単方向に制限した処理 + FRP - Qiita","url":"http://qiita.com/kondei/items/41c28674c1bfd4156186","description":"","label":"ddd,ucdd,frp","createdAt":1466956842821}
 ]
