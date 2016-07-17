@@ -1,5 +1,6 @@
 [
   {"title":"インターネット回線の速度テスト | Fast.com","url":"https://fast.com/ja/","description":"","label":"","createdAt":1468296202413},
   {"title":"enzyme+mocha+power-assertでReactコンポーネントのフルレンダリングテスト - wadackel.me","url":"https://blog.wadackel.me/2016/react-enzyme-mocha-power-assert/","description":"","label":"test,react","createdAt":1468559301689},
-  {"title":"Rails高速化戦略 /Speeding Up Rails // Speaker Deck","url":"https://speakerdeck.com/toshimaru/speeding-up-rails","description":"webの高速化","label":"","createdAt":1468563913641}
+  {"title":"Rails高速化戦略 /Speeding Up Rails // Speaker Deck","url":"https://speakerdeck.com/toshimaru/speeding-up-rails","description":"webの高速化","label":"","createdAt":1468563913641},
+  {"title":"Now: realtime node.js deployments","url":"https://zeit.co/now","description":"","label":"webservice,nodejs","createdAt":1468735152018}
 ]
