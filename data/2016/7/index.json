@@ -3,5 +3,6 @@
   {"title":"enzyme+mocha+power-assertでReactコンポーネントのフルレンダリングテスト - wadackel.me","url":"https://blog.wadackel.me/2016/react-enzyme-mocha-power-assert/","description":"","label":"test,react","createdAt":1468559301689},
   {"title":"Rails高速化戦略 /Speeding Up Rails // Speaker Deck","url":"https://speakerdeck.com/toshimaru/speeding-up-rails","description":"webの高速化","label":"","createdAt":1468563913641},
   {"title":"Now: realtime node.js deployments","url":"https://zeit.co/now","description":"","label":"webservice,nodejs","createdAt":1468735152018},
-  {"title":"プログラマが知っておくべき、メモリ/ディスク/ネットワークの速度まとめ - Qiita","url":"http://qiita.com/awakia/items/c8ada6c8101efe2de561","description":"","label":"","createdAt":1469347845785}
+  {"title":"プログラマが知っておくべき、メモリ/ディスク/ネットワークの速度まとめ - Qiita","url":"http://qiita.com/awakia/items/c8ada6c8101efe2de561","description":"","label":"","createdAt":1469347845785},
+  {"title":"仕事の役には立たない、Linuxにおけるジョークプログラムの話 - Qiita","url":"http://qiita.com/Hiroki_lzh/items/8cf206d54f91e29b3912","description":"","label":"","createdAt":1469347977349}
 ]
