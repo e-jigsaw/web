@@ -4,5 +4,6 @@
   {"title":"Project Mosaic—Frontend Microservices","url":"https://www.mosaic9.org/","description":"","label":"","createdAt":1471100369729},
   {"title":"flexboxのバグに立ち向かう（flexboxバグまとめ） - Qiita","url":"http://qiita.com/hashrock/items/189db03021b0f565ae27","description":"","label":"flexbox,css,bug,ie","createdAt":1471232465921},
   {"title":"lavrton/react-konva: React Konva is a JavaScript library for drawing complex canvas graphics using React.","url":"https://github.com/lavrton/react-konva","description":"","label":"react,2d,canvas","createdAt":1471410236971},
-  {"title":"Erkaman/regl-cnn: Digit recognition with Convolutional Neural Networks in WebGL","url":"https://github.com/Erkaman/regl-cnn","description":"","label":"webgl,nn","createdAt":1471522297411}
+  {"title":"Erkaman/regl-cnn: Digit recognition with Convolutional Neural Networks in WebGL","url":"https://github.com/Erkaman/regl-cnn","description":"","label":"webgl,nn","createdAt":1471522297411},
+  {"title":"fastText - Research at Facebook","url":"https://research.facebook.com/blog/fasttext/","description":"","label":"dl,nn,bot","createdAt":1471858563915}
 ]
