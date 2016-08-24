@@ -5,5 +5,6 @@
   {"title":"flexboxのバグに立ち向かう（flexboxバグまとめ） - Qiita","url":"http://qiita.com/hashrock/items/189db03021b0f565ae27","description":"","label":"flexbox,css,bug,ie","createdAt":1471232465921},
   {"title":"lavrton/react-konva: React Konva is a JavaScript library for drawing complex canvas graphics using React.","url":"https://github.com/lavrton/react-konva","description":"","label":"react,2d,canvas","createdAt":1471410236971},
   {"title":"Erkaman/regl-cnn: Digit recognition with Convolutional Neural Networks in WebGL","url":"https://github.com/Erkaman/regl-cnn","description":"","label":"webgl,nn","createdAt":1471522297411},
-  {"title":"fastText - Research at Facebook","url":"https://research.facebook.com/blog/fasttext/","description":"","label":"dl,nn,bot","createdAt":1471858563915}
+  {"title":"fastText - Research at Facebook","url":"https://research.facebook.com/blog/fasttext/","description":"","label":"dl,nn,bot","createdAt":1471858563915},
+  {"title":"日本の行政機関が公開中のAPIについてのまとめ（2016年8月17日暫定版） - Qiita","url":"http://qiita.com/kimuraya/items/3cc6c84bf6eac30851f1","description":"","label":"api","createdAt":1472081507339}
 ]
