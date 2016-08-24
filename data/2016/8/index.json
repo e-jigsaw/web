@@ -6,5 +6,6 @@
   {"title":"lavrton/react-konva: React Konva is a JavaScript library for drawing complex canvas graphics using React.","url":"https://github.com/lavrton/react-konva","description":"","label":"react,2d,canvas","createdAt":1471410236971},
   {"title":"Erkaman/regl-cnn: Digit recognition with Convolutional Neural Networks in WebGL","url":"https://github.com/Erkaman/regl-cnn","description":"","label":"webgl,nn","createdAt":1471522297411},
   {"title":"fastText - Research at Facebook","url":"https://research.facebook.com/blog/fasttext/","description":"","label":"dl,nn,bot","createdAt":1471858563915},
-  {"title":"日本の行政機関が公開中のAPIについてのまとめ（2016年8月17日暫定版） - Qiita","url":"http://qiita.com/kimuraya/items/3cc6c84bf6eac30851f1","description":"","label":"api","createdAt":1472081507339}
+  {"title":"日本の行政機関が公開中のAPIについてのまとめ（2016年8月17日暫定版） - Qiita","url":"http://qiita.com/kimuraya/items/3cc6c84bf6eac30851f1","description":"","label":"api","createdAt":1472081507339},
+  {"title":"console.logまとめ 2016年夏 - Qiita","url":"http://qiita.com/ykyk1218/items/0f5858d077d43a49cfe2","description":"","label":"javascript,tips","createdAt":1472081691782}
 ]
