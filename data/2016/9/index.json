@@ -1,5 +1,6 @@
 [
   {"title":"JavaScriptをOCamlから生成するトランスパイラ「BuckleScript 1.0」、米ブルームバーグがオープンソースで公開。TypeScriptよりタイプセーフかつ効率的で高速と － Publickey","url":"http://www.publickey1.jp/blog/16/javascriptocamlbucklescript_10.html","description":"","label":"ocaml,altjs","createdAt":1473064259995},
   {"title":"Facebook、新しいMySQL用ストレージエンジン「MyRocks」をオープンソースで公開。フラッシュに適したデータの書き込みと圧縮効果 － Publickey","url":"http://www.publickey1.jp/blog/16/facebookmysqlmyrocks.html","description":"","label":"mysql,db,facebook","createdAt":1473064720255},
-  {"title":"TLS徹底演習 // Speaker Deck","url":"https://speakerdeck.com/shigeki/tlsche-di-yan-xi","description":"","label":"","createdAt":1473775271526}
+  {"title":"TLS徹底演習 // Speaker Deck","url":"https://speakerdeck.com/shigeki/tlsche-di-yan-xi","description":"","label":"","createdAt":1473775271526},
+  {"title":"React Fiberアーキテクチャについて | プログラミング | POSTD","url":"http://postd.cc/react-fiber-architecture/","description":"","label":"","createdAt":1473775320102}
 ]
