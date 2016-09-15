@@ -5,5 +5,6 @@
   {"title":"React Fiberアーキテクチャについて | プログラミング | POSTD","url":"http://postd.cc/react-fiber-architecture/","description":"","label":"","createdAt":1473775320102},
   {"title":"マイクロサービスの終焉 | 開発手法・プロジェクト管理 | POSTD","url":"http://postd.cc/the-end-of-microservices/","description":"","label":"","createdAt":1473775345925},
   {"title":"知っているようで意外と知らない、DDoSの基礎知識 - Qiita","url":"http://qiita.com/ueyasu/items/064839f9289c3db63c26","description":"","label":"security","createdAt":1473898965092},
-  {"title":"Angular, version 2: proprioception-reinforcement","url":"http://angularjs.blogspot.jp/2016/09/angular2-final.html","description":"","label":"","createdAt":1473909862279}
+  {"title":"Angular, version 2: proprioception-reinforcement","url":"http://angularjs.blogspot.jp/2016/09/angular2-final.html","description":"","label":"","createdAt":1473909862279},
+  {"title":"The GitHub GraphQL API - GitHub Engineering","url":"http://githubengineering.com/the-github-graphql-api/","description":"","label":"","createdAt":1473910005865}
 ]
