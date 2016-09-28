@@ -8,5 +8,6 @@
   {"title":"Angular, version 2: proprioception-reinforcement","url":"http://angularjs.blogspot.jp/2016/09/angular2-final.html","description":"","label":"","createdAt":1473909862279},
   {"title":"The GitHub GraphQL API - GitHub Engineering","url":"http://githubengineering.com/the-github-graphql-api/","description":"","label":"","createdAt":1473910005865},
   {"title":"macOS Sierraへアップグレードする前の注意点まとめ。 | AAPL Ch.","url":"http://applech2.com/archives/macos-10-12-sierra-upgrade-check.html","description":"","label":"","createdAt":1474416260314},
-  {"title":"TypeScript 2.0 is now available! | TypeScript","url":"https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/","description":"","label":"","createdAt":1474595824758}
+  {"title":"TypeScript 2.0 is now available! | TypeScript","url":"https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/","description":"","label":"","createdAt":1474595824758},
+  {"title":"複雑なJavaScriptアプリケーションを考えながら作る話","url":"http://azu.github.io/slide/2016/react-meetup/large-scale-javascript.html","description":"","label":"","createdAt":1475032857254}
 ]
