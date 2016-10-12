@@ -8,5 +8,6 @@
   {"title":"WebVR - virtual reality in your browsers // Speaker Deck","url":"https://speakerdeck.com/casarock/webvr-virtual-reality-in-your-browsers","description":"","label":"","createdAt":1475555553929},
   {"title":"requestAnimationFrame とタイマーの今更な比較とデモ ::ハブろぐ","url":"https://havelog.ayumusato.com/develop/javascript/e725-timer_vs_raf.html","description":"","label":"animation,timer","createdAt":1475555938469},
   {"title":"Web over HTTPS // Speaker Deck","url":"https://speakerdeck.com/jxck/web-over-https","description":"","label":"security","createdAt":1476054057862},
-  {"title":"git fetch する度に\"Auto packing the repository in background for optimum performance.\" が出る - Qiita","url":"http://qiita.com/laiso/items/e00195e7365fe8cdb8ab","description":"","label":"git","createdAt":1476186375824}
+  {"title":"git fetch する度に\"Auto packing the repository in background for optimum performance.\" が出る - Qiita","url":"http://qiita.com/laiso/items/e00195e7365fe8cdb8ab","description":"","label":"git","createdAt":1476186375824},
+  {"title":"Yarn: A new package manager for JavaScript | Engineering Blog | Facebook Code","url":"https://code.facebook.com/posts/1840075619545360","description":"","label":"npm","createdAt":1476243294846}
 ]
