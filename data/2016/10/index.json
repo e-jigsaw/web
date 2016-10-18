@@ -11,5 +11,6 @@
   {"title":"git fetch する度に\"Auto packing the repository in background for optimum performance.\" が出る - Qiita","url":"http://qiita.com/laiso/items/e00195e7365fe8cdb8ab","description":"","label":"git","createdAt":1476186375824},
   {"title":"Yarn: A new package manager for JavaScript | Engineering Blog | Facebook Code","url":"https://code.facebook.com/posts/1840075619545360","description":"","label":"npm","createdAt":1476243294846},
   {"title":"Forward Universal WebApps // Speaker Deck","url":"https://speakerdeck.com/yosuke_furukawa/forward-universal-webapps","description":"","label":"spa,ssr,nodejs","createdAt":1476424061268},
-  {"title":"XSSを防ぐ新しいXSS-Protectionヘッダ - あすのかぜ","url":"http://d.hatena.ne.jp/ASnoKaze/20161009/1475941176","description":"","label":"security,xss,csp","createdAt":1476432050640}
+  {"title":"XSSを防ぐ新しいXSS-Protectionヘッダ - あすのかぜ","url":"http://d.hatena.ne.jp/ASnoKaze/20161009/1475941176","description":"","label":"security,xss,csp","createdAt":1476432050640},
+  {"title":"getify/Functional-Light-JS: A book about functional programming in JavaScript.","url":"https://github.com/getify/Functional-Light-JS","description":"","label":"book,fp","createdAt":1476768848513}
 ]
