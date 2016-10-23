@@ -14,5 +14,6 @@
   {"title":"XSSを防ぐ新しいXSS-Protectionヘッダ - あすのかぜ","url":"http://d.hatena.ne.jp/ASnoKaze/20161009/1475941176","description":"","label":"security,xss,csp","createdAt":1476432050640},
   {"title":"getify/Functional-Light-JS: A book about functional programming in JavaScript.","url":"https://github.com/getify/Functional-Light-JS","description":"","label":"book,fp","createdAt":1476768848513},
   {"title":"probmods/webppl: Probabilistic programming for the web","url":"https://github.com/probmods/webppl","description":"","label":"ppl","createdAt":1476769166848},
-  {"title":"Alpine Linuxあるある - Qiita","url":"http://qiita.com/MiCHiLU/items/1e80a5325b2746eaf2d4","description":"","label":"linux","createdAt":1477050633687}
+  {"title":"Alpine Linuxあるある - Qiita","url":"http://qiita.com/MiCHiLU/items/1e80a5325b2746eaf2d4","description":"","label":"linux","createdAt":1477050633687},
+  {"title":"GraphQLの話 (API for Front-end) // Speaker Deck","url":"https://speakerdeck.com/koba789/graphqlfalsehua-api-for-front-end","description":"","label":"graphql,restful","createdAt":1477248086867}
 ]
