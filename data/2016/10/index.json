@@ -16,5 +16,6 @@
   {"title":"probmods/webppl: Probabilistic programming for the web","url":"https://github.com/probmods/webppl","description":"","label":"ppl","createdAt":1476769166848},
   {"title":"Alpine Linuxあるある - Qiita","url":"http://qiita.com/MiCHiLU/items/1e80a5325b2746eaf2d4","description":"","label":"linux","createdAt":1477050633687},
   {"title":"GraphQLの話 (API for Front-end) // Speaker Deck","url":"https://speakerdeck.com/koba789/graphqlfalsehua-api-for-front-end","description":"","label":"graphql,restful","createdAt":1477248086867},
-  {"title":"gRPCを試してみる(OSX + Node.js) - Qiita","url":"http://qiita.com/shin1ogawa/items/68adb772afef59c7dae1","description":"","label":"grpc","createdAt":1477248574175}
+  {"title":"gRPCを試してみる(OSX + Node.js) - Qiita","url":"http://qiita.com/shin1ogawa/items/68adb772afef59c7dae1","description":"","label":"grpc","createdAt":1477248574175},
+  {"title":"docker-syncでホスト-コンテナ間を爆速で同期する - Qiita","url":"http://qiita.com/pocari/items/0340049742927f3a94b7","description":"","label":"docker","createdAt":1477309885281}
 ]
