@@ -20,5 +20,6 @@
   {"title":"docker-syncでホスト-コンテナ間を爆速で同期する - Qiita","url":"http://qiita.com/pocari/items/0340049742927f3a94b7","description":"","label":"docker","createdAt":1477309885281},
   {"title":"Serverless Architecture // Speaker Deck","url":"https://speakerdeck.com/naoya/serverless-architecture","description":"","label":"serverless,microservices","createdAt":1477320203234},
   {"title":"Angular2 + webpack でLazy Loading(AoTもあるよ!) - Qiita","url":"http://qiita.com/Quramy/items/e3e6d63a2b155aec2067","description":"","label":"webpack","createdAt":1477406021728},
-  {"title":"新形態素解析器JUMAN++を触ってみたけど思ったより高精度でMeCabから乗り換えようかと思った話 - Qiita","url":"http://qiita.com/riverwell/items/438e88427363511e9f28","description":"","label":"","createdAt":1477666104446}
+  {"title":"新形態素解析器JUMAN++を触ってみたけど思ったより高精度でMeCabから乗り換えようかと思った話 - Qiita","url":"http://qiita.com/riverwell/items/438e88427363511e9f28","description":"","label":"","createdAt":1477666104446},
+  {"title":"Node v7 で入った WHATWG URL 実装について | blog.jxck.io","url":"https://blog.jxck.io/entries/2016-10-27/whatwg-url.html","description":"","label":"url,nodejs","createdAt":1477756275039}
 ]
