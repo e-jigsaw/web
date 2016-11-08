@@ -1,5 +1,6 @@
 [
   {"title":"submodule の向き先 url を変更する - Qiita","url":"http://qiita.com/8mamo10/items/fd11d8c7a2d928b39173","description":"","label":"git","createdAt":1478013646900},
   {"title":"The benefits of using Varnish | Fastly","url":"https://www.fastly.com/blog/benefits-using-varnish","description":"","label":"infra,varnish,fastly,cdn","createdAt":1478545857550},
-  {"title":"Varnish入門と仕組み - Qiita","url":"http://qiita.com/koudaiii/items/6a0efa024842cd48e2fb","description":"","label":"varnish","createdAt":1478546137825}
+  {"title":"Varnish入門と仕組み - Qiita","url":"http://qiita.com/koudaiii/items/6a0efa024842cd48e2fb","description":"","label":"varnish","createdAt":1478546137825},
+  {"title":"SleepSort、BogoSortに続く画期的なソートアルゴリズム、ErrorSortを考えた - 蟲！虫！蟲！ - #!/usr/bin/bugrammer","url":"http://bugrammer.g.hatena.ne.jp/nisemono_san/20111109/1320788723","description":"","label":"python","createdAt":1478608074786}
 ]
