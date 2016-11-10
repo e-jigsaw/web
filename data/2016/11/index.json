@@ -5,5 +5,6 @@
   {"title":"SleepSort、BogoSortに続く画期的なソートアルゴリズム、ErrorSortを考えた - 蟲！虫！蟲！ - #!/usr/bin/bugrammer","url":"http://bugrammer.g.hatena.ne.jp/nisemono_san/20111109/1320788723","description":"","label":"python","createdAt":1478608074786},
   {"title":"Resource (pre)loading","url":"https://yoavweiss.github.io/preload_and_preloaders_velocity_ams/","description":"","label":"http2","createdAt":1478651918338},
   {"title":"Reorganizing Website Architecture for HTTP/2 and Beyond","url":"http://www.slideshare.net/kazuho/reorganizing-website-architecture-for-http2-and-beyond","description":"","label":"http2","createdAt":1478652339501},
-  {"title":"WhitestormJS/whitestorm.js: Framework for developing 3D web apps with physics.","url":"https://github.com/WhitestormJS/whitestorm.js","description":"","label":"game","createdAt":1478756885441}
+  {"title":"WhitestormJS/whitestorm.js: Framework for developing 3D web apps with physics.","url":"https://github.com/WhitestormJS/whitestorm.js","description":"","label":"game","createdAt":1478756885441},
+  {"title":"Increments流GitHub稟議の手順と導入方法 - Qiita Blog","url":"http://blog.qiita.com/post/152982046704/ringi","description":"","label":"usecase","createdAt":1478766705264}
 ]
