@@ -5,5 +5,6 @@
   {"title":"Houdini、それはCSSの進化を促すプロジェクト - The future starts today","url":"http://shibe97.hatenablog.com/entry/2016/12/05/083000","description":"","label":"cssnext,polyfill,houdini","createdAt":1481017972278},
   {"title":"date-fns/date-fns: ⏳ Modern JavaScript date utility library ⌛️","url":"https://github.com/date-fns/date-fns","description":"","label":"","createdAt":1481096540450},
   {"title":"pubkey/rxdb: Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown","url":"https://github.com/pubkey/rxdb","description":"","label":"db","createdAt":1481096695188},
-  {"title":"rtsao/styletron: Universal, high-performance JavaScript styles","url":"https://github.com/rtsao/styletron","description":"","label":"css","createdAt":1481096796438}
+  {"title":"rtsao/styletron: Universal, high-performance JavaScript styles","url":"https://github.com/rtsao/styletron","description":"","label":"css","createdAt":1481096796438},
+  {"title":"erikbern/git-of-theseus: Analyze how a Git repo grows over time","url":"https://github.com/erikbern/git-of-theseus","description":"","label":"infograph","createdAt":1481190905654}
 ]
