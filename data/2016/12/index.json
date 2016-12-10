@@ -7,5 +7,6 @@
   {"title":"pubkey/rxdb: Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown","url":"https://github.com/pubkey/rxdb","description":"","label":"db","createdAt":1481096695188},
   {"title":"rtsao/styletron: Universal, high-performance JavaScript styles","url":"https://github.com/rtsao/styletron","description":"","label":"css","createdAt":1481096796438},
   {"title":"erikbern/git-of-theseus: Analyze how a Git repo grows over time","url":"https://github.com/erikbern/git-of-theseus","description":"","label":"infograph","createdAt":1481190905654},
-  {"title":"The State of Babel · Babel","url":"https://babeljs.io/blog/2016/12/07/the-state-of-babel","description":"","label":"","createdAt":1481256686668}
+  {"title":"The State of Babel · Babel","url":"https://babeljs.io/blog/2016/12/07/the-state-of-babel","description":"","label":"","createdAt":1481256686668},
+  {"title":"Variable Fontについて - console.blog(self);","url":"http://sadah.hatenablog.com/entry/variablefont","description":"","label":"font,css","createdAt":1481344558205}
 ]
