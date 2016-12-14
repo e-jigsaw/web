@@ -9,5 +9,6 @@
   {"title":"erikbern/git-of-theseus: Analyze how a Git repo grows over time","url":"https://github.com/erikbern/git-of-theseus","description":"","label":"infograph","createdAt":1481190905654},
   {"title":"The State of Babel · Babel","url":"https://babeljs.io/blog/2016/12/07/the-state-of-babel","description":"","label":"","createdAt":1481256686668},
   {"title":"Variable Fontについて - console.blog(self);","url":"http://sadah.hatenablog.com/entry/variablefont","description":"","label":"font,css","createdAt":1481344558205},
-  {"title":"RFC 8030 - Generic Event Delivery Using HTTP Push","url":"https://tools.ietf.org/html/rfc8030","description":"","label":"http_push,rfc","createdAt":1481346367575}
+  {"title":"RFC 8030 - Generic Event Delivery Using HTTP Push","url":"https://tools.ietf.org/html/rfc8030","description":"","label":"http_push,rfc","createdAt":1481346367575},
+  {"title":"ECMAScript: latest and upcoming features // Speaker Deck","url":"https://speakerdeck.com/rauschma/ecmascript-latest-and-upcoming-features","description":"","label":"es2017","createdAt":1481680160598}
 ]
