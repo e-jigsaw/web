@@ -11,5 +11,6 @@
   {"title":"Arrival – Mozilla Open Design","url":"https://blog.mozilla.org/opendesign/arrival/","description":"","label":"mozilla,design","createdAt":1484884382157},
   {"title":"Amazon Dash Buttonは何がヤバイのか – Medium","url":"https://medium.com/@tokoroten/amazon-dash-button%E3%81%AF%E4%BD%95%E3%81%8C%E3%83%A4%E3%83%90%E3%82%A4%E3%81%AE%E3%81%8B-4fb29f42041d#.7zprua6ot","description":"","label":"amazon,marketing","createdAt":1484884703250},
   {"title":"Deploying Microservices: Spring Cloud vs. Kubernetes - DZone Cloud","url":"https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes","description":"","label":"k8s,microservices","createdAt":1485165133596},
-  {"title":"行動ログでプロダクトを改善するには/exploit user behavior for product // Speaker Deck","url":"https://speakerdeck.com/penguinco/exploit-user-behavior-for-product","description":"","label":"","createdAt":1485165181256}
+  {"title":"行動ログでプロダクトを改善するには/exploit user behavior for product // Speaker Deck","url":"https://speakerdeck.com/penguinco/exploit-user-behavior-for-product","description":"","label":"","createdAt":1485165181256},
+  {"title":"確率的プログラミング | プログラミング | POSTD","url":"http://postd.cc/probabilistic-programming/","description":"","label":"pp,webppl","createdAt":1485165437380}
 ]
