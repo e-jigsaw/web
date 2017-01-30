@@ -13,5 +13,6 @@
   {"title":"Deploying Microservices: Spring Cloud vs. Kubernetes - DZone Cloud","url":"https://dzone.com/articles/deploying-microservices-spring-cloud-vs-kubernetes","description":"","label":"k8s,microservices","createdAt":1485165133596},
   {"title":"行動ログでプロダクトを改善するには/exploit user behavior for product // Speaker Deck","url":"https://speakerdeck.com/penguinco/exploit-user-behavior-for-product","description":"","label":"","createdAt":1485165181256},
   {"title":"確率的プログラミング | プログラミング | POSTD","url":"http://postd.cc/probabilistic-programming/","description":"","label":"pp,webppl","createdAt":1485165437380},
-  {"title":"GLSL作曲入門 - Qiita","url":"http://qiita.com/notargs/items/be2fa153e62e3554a773","description":"","label":"glsl","createdAt":1485345668128}
+  {"title":"GLSL作曲入門 - Qiita","url":"http://qiita.com/notargs/items/be2fa153e62e3554a773","description":"","label":"glsl","createdAt":1485345668128},
+  {"title":"TensorFlowを利用した アイドル顔識別についてあれこれ / 2017-01-28 GCPUG Fukuoka 5th // Speaker Deck","url":"https://speakerdeck.com/sugyan/2017-01-28-gcpug-fukuoka-5th","description":"","label":"tensorflow","createdAt":1485751921823}
 ]
