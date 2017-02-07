@@ -1,4 +1,5 @@
 [
   {"title":"ios - chromium/src.git - Git at Google","url":"https://chromium.googlesource.com/chromium/src.git/+/master/ios/","description":"iOS Chrome が OSS に","label":"ios","createdAt":1485917291102},
-  {"title":"Front-End Salaries · Front-end Developer Handbook 2017","url":"https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/practice/salaries.html","description":"フロントエンドエンジニアの給与","label":"","createdAt":1486006815326}
+  {"title":"Front-End Salaries · Front-end Developer Handbook 2017","url":"https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/practice/salaries.html","description":"フロントエンドエンジニアの給与","label":"","createdAt":1486006815326},
+  {"title":"\"Real\" Mixins with JavaScript Classes","url":"http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/","description":"ES2015の簡易mixin実装","label":"","createdAt":1486457183758}
 ]
