@@ -5,5 +5,6 @@
   {"title":"Node_CaseStudy_Nasa_FNL.pdf","url":"https://nodejs.org/static/documents/casestudies/Node_CaseStudy_Nasa_FNL.pdf","description":"NASA の事例紹介 PDF","label":"","createdAt":1486465618874},
   {"title":"bdash-app/bdash: A simple business intelligence application.","url":"https://github.com/bdash-app/bdash","description":"SQL を叩いてテーブルとかグラフが生成できる Electron 製 App","label":"","createdAt":1486522741790},
   {"title":"トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた - Qiita","url":"http://qiita.com/uasi/items/cfb60588daa18c2ec6f5","description":"","label":"spec","createdAt":1486569099680},
-  {"title":"Our Big Frontend Plan Revealed | GitLab","url":"https://about.gitlab.com/2017/02/06/vue-big-plan/","description":"","label":"gitlab,vue,rails","createdAt":1486611563982}
+  {"title":"Our Big Frontend Plan Revealed | GitLab","url":"https://about.gitlab.com/2017/02/06/vue-big-plan/","description":"","label":"gitlab,vue,rails","createdAt":1486611563982},
+  {"title":"Container Registry サポート終了の予告  |  Container Registry のドキュメント  |  Google Cloud Platform","url":"https://cloud.google.com/container-registry/docs/support/deprecation-notices","description":"","label":"gcr,docker","createdAt":1487128976415}
 ]
