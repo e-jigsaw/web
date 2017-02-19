@@ -7,5 +7,6 @@
   {"title":"トークンを利用した認証・認可 API を実装するとき Authorization: Bearer ヘッダを使っていいのか調べた - Qiita","url":"http://qiita.com/uasi/items/cfb60588daa18c2ec6f5","description":"","label":"spec","createdAt":1486569099680},
   {"title":"Our Big Frontend Plan Revealed | GitLab","url":"https://about.gitlab.com/2017/02/06/vue-big-plan/","description":"","label":"gitlab,vue,rails","createdAt":1486611563982},
   {"title":"Container Registry サポート終了の予告  |  Container Registry のドキュメント  |  Google Cloud Platform","url":"https://cloud.google.com/container-registry/docs/support/deprecation-notices","description":"","label":"gcr,docker","createdAt":1487128976415},
-  {"title":"Fuchsia","url":"https://github.com/fuchsia-mirror","description":"Google 製の Linux ベースではない新 OS","label":"","createdAt":1487338201541}
+  {"title":"Fuchsia","url":"https://github.com/fuchsia-mirror","description":"Google 製の Linux ベースではない新 OS","label":"","createdAt":1487338201541},
+  {"title":"Polyfill のあり方と Web の進化と協調するためのガイドライン | blog.jxck.io","url":"https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html","description":"","label":"javascript,polyfill","createdAt":1487538507073}
 ]
