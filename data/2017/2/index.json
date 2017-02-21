@@ -8,5 +8,6 @@
   {"title":"Our Big Frontend Plan Revealed | GitLab","url":"https://about.gitlab.com/2017/02/06/vue-big-plan/","description":"","label":"gitlab,vue,rails","createdAt":1486611563982},
   {"title":"Container Registry サポート終了の予告  |  Container Registry のドキュメント  |  Google Cloud Platform","url":"https://cloud.google.com/container-registry/docs/support/deprecation-notices","description":"","label":"gcr,docker","createdAt":1487128976415},
   {"title":"Fuchsia","url":"https://github.com/fuchsia-mirror","description":"Google 製の Linux ベースではない新 OS","label":"","createdAt":1487338201541},
-  {"title":"Polyfill のあり方と Web の進化と協調するためのガイドライン | blog.jxck.io","url":"https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html","description":"","label":"javascript,polyfill","createdAt":1487538507073}
+  {"title":"Polyfill のあり方と Web の進化と協調するためのガイドライン | blog.jxck.io","url":"https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html","description":"","label":"javascript,polyfill","createdAt":1487538507073},
+  {"title":"受け入れテストの自動化 ～ OpenCVの「眼」で捉え、Pythonの「脳」が思考し、Appiumの「指」で動かす // Speaker Deck","url":"https://speakerdeck.com/cygames/shou-keru-retesutofalsezi-dong-hua-opencvfalse-yan-dezhuo-e-pythonfalse-noy-gasi-kao-si-appiumfalse-zhi-dedong-kasu","description":"","label":"","createdAt":1487672501470}
 ]
