@@ -12,5 +12,6 @@
   {"title":"受け入れテストの自動化 ～ OpenCVの「眼」で捉え、Pythonの「脳」が思考し、Appiumの「指」で動かす // Speaker Deck","url":"https://speakerdeck.com/cygames/shou-keru-retesutofalsezi-dong-hua-opencvfalse-yan-dezhuo-e-pythonfalse-noy-gasi-kao-si-appiumfalse-zhi-dedong-kasu","description":"","label":"","createdAt":1487672501470},
   {"title":"Image-to-Image Demo - Affine Layer","url":"http://affinelayer.com/pixsrv/","description":"","label":"tensorflow","createdAt":1487739051651},
   {"title":"TwitterによるReactベースのモバイルWebスタックはネイティブのパフォーマンスに匹敵する","url":"https://www.infoq.com/jp/news/2017/02/twitter-react-mobile-stack","description":"","label":"twitter,react,pwa","createdAt":1487953855068},
-  {"title":"React Redux Real World Examples 〜先人から学ぶReact Reduxの知恵〜","url":"http://blog.tai2.net/real-world-redux.html","description":"","label":"react,redux","createdAt":1487953895192}
+  {"title":"React Redux Real World Examples 〜先人から学ぶReact Reduxの知恵〜","url":"http://blog.tai2.net/real-world-redux.html","description":"","label":"react,redux","createdAt":1487953895192},
+  {"title":"目指すのはぶっちぎりの速さ! なぜ HTML5 版CacooはSVGを採用するのか | ヌーラボ","url":"https://nulab-inc.com/ja/blog/cacoo/cacoo-use-html5-svg/","description":"","label":"svg","createdAt":1488175146745}
 ]
