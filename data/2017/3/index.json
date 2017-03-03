@@ -1,5 +1,6 @@
 [
   {"title":"Component of Web Frontend // Speaker Deck","url":"https://speakerdeck.com/1000ch/component-of-web-frontend","description":"","label":"","createdAt":1488518936209},
   {"title":"Web over ServiceWorker // Speaker Deck","url":"https://speakerdeck.com/jxck/web-over-serviceworker","description":"","label":"","createdAt":1488519228466},
-  {"title":"SpeedCurve: Monitor front-end performance","url":"https://speedcurve.com/","description":"主要デバイスでレンダリングの時間などが計測できるサービス","label":"","createdAt":1488519603897}
+  {"title":"SpeedCurve: Monitor front-end performance","url":"https://speedcurve.com/","description":"主要デバイスでレンダリングの時間などが計測できるサービス","label":"","createdAt":1488519603897},
+  {"title":"アメブロ 2016: 実録、アメブロリニューアル275日 ~ Webパフォーマンス編 ~ // Speaker Deck","url":"https://speakerdeck.com/herablog/ameburo-2016-shi-lu-ameburoriniyuaru275ri-webpahuomansubian","description":"","label":"","createdAt":1488519856306}
 ]
