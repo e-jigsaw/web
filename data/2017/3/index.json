@@ -5,5 +5,6 @@
   {"title":"アメブロ 2016: 実録、アメブロリニューアル275日 ~ Webパフォーマンス編 ~ // Speaker Deck","url":"https://speakerdeck.com/herablog/ameburo-2016-shi-lu-ameburoriniyuaru275ri-webpahuomansubian","description":"","label":"","createdAt":1488519856306},
   {"title":"Polyfills and the web // Speaker Deck","url":"https://speakerdeck.com/triblondon/polyfills-and-the-web","description":"","label":"","createdAt":1488520051466},
   {"title":"CertSimple | An nginx config for 2017","url":"https://certsimple.com/blog/nginx-http2-load-balancing-config","description":"","label":"","createdAt":1488729466072},
-  {"title":"Subresource Integrity - Web セキュリティ | MDN","url":"https://developer.mozilla.org/ja/docs/Web/Security/Subresource_Integrity","description":"script 要素の integrity 属性について","label":"","createdAt":1488729496924}
+  {"title":"Subresource Integrity - Web セキュリティ | MDN","url":"https://developer.mozilla.org/ja/docs/Web/Security/Subresource_Integrity","description":"script 要素の integrity 属性について","label":"","createdAt":1488729496924},
+  {"title":"Container Builder | Create Docker Container Images  |  Google Cloud Platform","url":"https://cloud.google.com/container-builder/","description":"","label":"","createdAt":1488948896738}
 ]
