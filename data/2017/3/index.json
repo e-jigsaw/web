@@ -8,5 +8,6 @@
   {"title":"Subresource Integrity - Web セキュリティ | MDN","url":"https://developer.mozilla.org/ja/docs/Web/Security/Subresource_Integrity","description":"script 要素の integrity 属性について","label":"","createdAt":1488729496924},
   {"title":"Container Builder | Create Docker Container Images  |  Google Cloud Platform","url":"https://cloud.google.com/container-builder/","description":"","label":"","createdAt":1488948896738},
   {"title":"google/sentencepiece","url":"https://github.com/google/sentencepiece","description":"","label":"nmt","createdAt":1488953580582},
-  {"title":"Google Cloud Platform Japan 公式ブログ: Google Cloud Datastoreでのデータ整理の考え方","url":"https://cloudplatform-jp.googleblog.com/2015/08/google-cloud-datastore.html","description":"","label":"","createdAt":1489000723985}
+  {"title":"Google Cloud Platform Japan 公式ブログ: Google Cloud Datastoreでのデータ整理の考え方","url":"https://cloudplatform-jp.googleblog.com/2015/08/google-cloud-datastore.html","description":"","label":"","createdAt":1489000723985},
+  {"title":"Understanding the SVG fill-rule Property","url":"https://www.sitepoint.com/understanding-svg-fill-rule-property/","description":"svg の fill-rule について","label":"","createdAt":1489119208131}
 ]
