@@ -11,5 +11,6 @@
   {"title":"Google Cloud Platform Japan 公式ブログ: Google Cloud Datastoreでのデータ整理の考え方","url":"https://cloudplatform-jp.googleblog.com/2015/08/google-cloud-datastore.html","description":"","label":"","createdAt":1489000723985},
   {"title":"Understanding the SVG fill-rule Property","url":"https://www.sitepoint.com/understanding-svg-fill-rule-property/","description":"svg の fill-rule について","label":"","createdAt":1489119208131},
   {"title":"MobXを使ったアーキテクチャについて - console.lealog();","url":"http://lealog.hateblo.jp/entry/2017/03/08/114017","description":"","label":"mobx","createdAt":1489252980059},
-  {"title":"Docker / Apache Mesos / Marathon による3倍速いIQONクローラーの構築 - VASILY DEVELOPERS BLOG","url":"http://tech.vasily.jp/entry/iqon-crawler-by-docker-and-mesos-and-marathon","description":"","label":"mesos,marathon","createdAt":1489848538276}
+  {"title":"Docker / Apache Mesos / Marathon による3倍速いIQONクローラーの構築 - VASILY DEVELOPERS BLOG","url":"http://tech.vasily.jp/entry/iqon-crawler-by-docker-and-mesos-and-marathon","description":"","label":"mesos,marathon","createdAt":1489848538276},
+  {"title":"Docker to donate containerd to the Cloud Native Computing Foundation - Docker Blog","url":"https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/","description":"","label":"","createdAt":1489848642423}
 ]
