@@ -16,5 +16,6 @@
   {"title":"What is FaaS on Kubernetes? A webinar recap and Q&A","url":"http://cloudacademy.com/blog/faas-on-kubernetes-webinar-recap/","description":"","label":"faas,k8s","createdAt":1490105397897},
   {"title":"Apache OpenWhisk is a serverless, open source cloud platform","url":"http://openwhisk.org/","description":"","label":"faas","createdAt":1490105482707},
   {"title":"Iron.io Open Source","url":"http://open.iron.io/","description":"","label":"faas","createdAt":1490105512855},
-  {"title":"あなたの開発、Hype(誇大宣伝) Driven Development になっていませんか？ - Qiita","url":"http://qiita.com/devneko/items/4f748253b2e2cd1192b1","description":"","label":"","createdAt":1490956597922}
+  {"title":"あなたの開発、Hype(誇大宣伝) Driven Development になっていませんか？ - Qiita","url":"http://qiita.com/devneko/items/4f748253b2e2cd1192b1","description":"","label":"","createdAt":1490956597922},
+  {"title":"ある美女が，どの大学にいそうかを CNN で判別する - Qiita","url":"http://qiita.com/pika_shi/items/3c8ab1a8ecc655b33851","description":"","label":"","createdAt":1490956723174}
 ]
