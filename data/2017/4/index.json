@@ -1,4 +1,5 @@
 [
   {"title":"Transfer Learning - Machine Learning's Next Frontier","url":"http://sebastianruder.com/transfer-learning/index.html","description":"転移学習","label":"","createdAt":1491156282969},
-  {"title":"How we built Twitter Lite | Twitter Blogs","url":"https://blog.twitter.com/2017/how-we-built-twitter-lite","description":"","label":"twitter,pwa","createdAt":1491462632313}
+  {"title":"How we built Twitter Lite | Twitter Blogs","url":"https://blog.twitter.com/2017/how-we-built-twitter-lite","description":"","label":"twitter,pwa","createdAt":1491462632313},
+  {"title":"StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share","url":"http://gs.statcounter.com/","description":"ウェブのもろもろのシェアが見れるサービス","label":"","createdAt":1491474889286}
 ]
