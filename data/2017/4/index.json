@@ -4,5 +4,6 @@
   {"title":"StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share","url":"http://gs.statcounter.com/","description":"ウェブのもろもろのシェアが見れるサービス","label":"","createdAt":1491474889286},
   {"title":"Hyper.sh - Effortless Docker Hosting","url":"https://hyper.sh/","description":"container as a service","label":"","createdAt":1491490726581},
   {"title":"Why Wercker is Thrilled to Join Oracle","url":"http://blog.wercker.com/oracle","description":"","label":"","createdAt":1492447578893},
-  {"title":"FRESH! Web パフォーマンス改善 〜クライアントサイド編〜 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ","url":"https://developers.cyberagent.co.jp/blog/archives/6057/","description":"","label":"perf","createdAt":1492573466946}
+  {"title":"FRESH! Web パフォーマンス改善 〜クライアントサイド編〜 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ","url":"https://developers.cyberagent.co.jp/blog/archives/6057/","description":"","label":"perf","createdAt":1492573466946},
+  {"title":"React v15.5(6) and v16 - blog.koba04.com","url":"http://blog.koba04.com/post/2017/04/14/react-dot-js-v155-and-v16/","description":"","label":"react","createdAt":1492575524844}
 ]
