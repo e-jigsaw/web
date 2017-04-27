@@ -6,5 +6,6 @@
   {"title":"Why Wercker is Thrilled to Join Oracle","url":"http://blog.wercker.com/oracle","description":"","label":"","createdAt":1492447578893},
   {"title":"FRESH! Web パフォーマンス改善 〜クライアントサイド編〜 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ","url":"https://developers.cyberagent.co.jp/blog/archives/6057/","description":"","label":"perf","createdAt":1492573466946},
   {"title":"React v15.5(6) and v16 - blog.koba04.com","url":"http://blog.koba04.com/post/2017/04/14/react-dot-js-v155-and-v16/","description":"","label":"react","createdAt":1492575524844},
-  {"title":"abouthiroppy/node8","url":"https://abouthiroppy.github.io/slides/node8","description":"","label":"nodejs,v8","createdAt":1493270344711}
+  {"title":"abouthiroppy/node8","url":"https://abouthiroppy.github.io/slides/node8","description":"","label":"nodejs,v8","createdAt":1493270344711},
+  {"title":"Nodeへutil.promisify()の追加 - 技術探し","url":"http://abouthiroppy.hatenablog.jp/entry/2017/04/27/110733","description":"","label":"nodejs","createdAt":1493276033499}
 ]
