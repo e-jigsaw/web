@@ -10,5 +10,6 @@
   {"title":"Nodeへutil.promisify()の追加 - 技術探し","url":"http://abouthiroppy.hatenablog.jp/entry/2017/04/27/110733","description":"","label":"nodejs","createdAt":1493276033499},
   {"title":"facebook/react-vr: Create amazing 360 and VR content using React","url":"https://github.com/facebook/react-vr","description":"","label":"react,webvr","createdAt":1493527248690},
   {"title":"Webブラウザで高速な演算を可能にする低水準言語asm.jsと、WebAssembly詳解ーasm.jsを高速に動作させる新しいコンパイラーターゲットWASMとは？ | HTML5Experts.jp","url":"https://html5experts.jp/chikoski/22523/","description":"","label":"wasm","createdAt":1493529413143},
-  {"title":"「Web Componentsが来る！CSS設計はどうなる？」―CSSのエキスパートに聞いてみた！ | HTML5Experts.jp","url":"https://html5experts.jp/shumpei-shiraishi/22820/","description":"","label":"webcomponents,css","createdAt":1493529525248}
+  {"title":"「Web Componentsが来る！CSS設計はどうなる？」―CSSのエキスパートに聞いてみた！ | HTML5Experts.jp","url":"https://html5experts.jp/shumpei-shiraishi/22820/","description":"","label":"webcomponents,css","createdAt":1493529525248},
+  {"title":"Angular最新トピックとテクニックをng-japan代表のlacoさんに聞いてきた！（前編） | HTML5Experts.jp","url":"https://html5experts.jp/shumpei-shiraishi/22920/","description":"","label":"angular","createdAt":1493529568654}
 ]
