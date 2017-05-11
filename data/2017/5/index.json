@@ -1,4 +1,5 @@
 [
   {"title":"LightScript: JavaScript, with cleaned-up syntax and a few conveniences","url":"http://www.lightscript.org/","description":"","label":"altjs","createdAt":1493704660836},
-  {"title":"Prepack · Partial evaluator for JavaScript","url":"https://prepack.io/","description":"","label":"aot","createdAt":1494522030842}
+  {"title":"Prepack · Partial evaluator for JavaScript","url":"https://prepack.io/","description":"","label":"aot","createdAt":1494522030842},
+  {"title":"ES6 Modules in Chrome Canary (M60+) – Dev Channel – Medium","url":"https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7","description":"","label":"es6modules","createdAt":1494522138888}
 ]
