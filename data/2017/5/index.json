@@ -2,5 +2,6 @@
   {"title":"LightScript: JavaScript, with cleaned-up syntax and a few conveniences","url":"http://www.lightscript.org/","description":"","label":"altjs","createdAt":1493704660836},
   {"title":"Prepack · Partial evaluator for JavaScript","url":"https://prepack.io/","description":"","label":"aot","createdAt":1494522030842},
   {"title":"ES6 Modules in Chrome Canary (M60+) – Dev Channel – Medium","url":"https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7","description":"","label":"es6modules","createdAt":1494522138888},
-  {"title":"インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 | アプリマーケティング研究所","url":"http://appmarketinglabo.net/insta-mercari/","description":"","label":"internet","createdAt":1494522176273}
+  {"title":"インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 | アプリマーケティング研究所","url":"http://appmarketinglabo.net/insta-mercari/","description":"","label":"internet","createdAt":1494522176273},
+  {"title":"Ubuntu, SUSE Linux, and Fedora are all coming to the Windows Store - The Verge","url":"https://www.theverge.com/circuitbreaker/2017/5/11/15625320/ubuntu-suse-linux-fedora-windows-store-microsoft-build-2017","description":"","label":"windows,linux","createdAt":1494523890805}
 ]
