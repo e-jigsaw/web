@@ -1,3 +1,4 @@
 [
-  {"title":"LightScript: JavaScript, with cleaned-up syntax and a few conveniences","url":"http://www.lightscript.org/","description":"","label":"altjs","createdAt":1493704660836}
+  {"title":"LightScript: JavaScript, with cleaned-up syntax and a few conveniences","url":"http://www.lightscript.org/","description":"","label":"altjs","createdAt":1493704660836},
+  {"title":"Prepack · Partial evaluator for JavaScript","url":"https://prepack.io/","description":"","label":"aot","createdAt":1494522030842}
 ]
