@@ -1,7 +1,0 @@
-box: node:5
-build:
-  steps:
-    - npm-install
-    - script:
-        name: check
-        code: npm run check
