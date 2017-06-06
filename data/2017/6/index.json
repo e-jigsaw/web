@@ -1,4 +1,5 @@
 [
   {"title":"Node.js8になって util.promisify が利用できるようになったのでメモ - MANA-DOT","url":"http://blog.manaten.net/entry/util-promisify","description":"","label":"","createdAt":1496271647630},
-  {"title":"OneSignal - Multi-platform Push Notification Service","url":"https://onesignal.com/","description":"Web の Push もできる","label":"","createdAt":1496582245897}
+  {"title":"OneSignal - Multi-platform Push Notification Service","url":"https://onesignal.com/","description":"Web の Push もできる","label":"","createdAt":1496582245897},
+  {"title":"Codenvy | Cloud Workspaces for Development Teams","url":"https://codenvy.com/","description":"WebベースのIDE","label":"","createdAt":1496731277900}
 ]
