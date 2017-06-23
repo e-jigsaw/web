@@ -9,5 +9,6 @@
   {"title":"Webサイト開発にCSS in JavaScriptを使うのはやめよう | デザイン | POSTD","url":"http://postd.cc/stop-using-css-in-javascript-for-web-development-fa/","description":"","label":"cssinjs,css","createdAt":1497768413266},
   {"title":"ReactはなぜFiberで書き直されたのか？Reactの課題と将来像を探る | HTML5Experts.jp","url":"https://html5experts.jp/shumpei-shiraishi/23265/","description":"","label":"react","createdAt":1497771004422},
   {"title":"進化を続けるChrome DevToolsの最新情報 2017 ──Google I/O 2017 セッションレポート | HTML5Experts.jp","url":"https://html5experts.jp/ryoyakawai/23548/","description":"","label":"chrome,devtools","createdAt":1497771069111},
-  {"title":"🍾🚀 webpack 3: Official Release!! 🚀🍾 – webpack – Medium","url":"https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b","description":"","label":"webpack","createdAt":1497924313874}
+  {"title":"🍾🚀 webpack 3: Official Release!! 🚀🍾 – webpack – Medium","url":"https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b","description":"","label":"webpack","createdAt":1497924313874},
+  {"title":"ES Modules への橋渡しとしての nomodule 属性 | blog.jxck.io","url":"https://blog.jxck.io/entries/2017-06-21/nomodule-attribute.html","description":"","label":"esmodules","createdAt":1498220103410}
 ]
